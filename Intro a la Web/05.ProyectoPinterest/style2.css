@@ -41,14 +41,13 @@ button {
     top: 12px;
     right: 6px;
     font-size: 15px;
-    background: red;
+    background: rgb(209, 3, 3);
     color: #ffffff;
     border-radius: 15px;
     opacity: 0;
     z-index: 1;
     transition: 0.25 ease-in-out;
-    
-}
+    }
 
 .image:hover button{
     opacity: 0.5;
